@@ -1,2 +1,2 @@
 # test_verma
-test repo
+test repo for basic git commmands demonstration
