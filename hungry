@@ -1,1 +1,10 @@
-print("I'm hungry")
+hungry=input('Are you hungry?')
+if hungry=="yes":
+    print('Have some food')
+else:
+    print('do your work,Thanks!')
+office_work=input('have you done your office work')
+if office_work=="yes":
+    print('good, you can take break')
+else:
+    print('finish your office work,Thanks!')
